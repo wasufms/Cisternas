@@ -27,6 +27,7 @@ public class AddActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add);
+        //estou mudando para ver o git
         edtId=(EditText)findViewById(R.id.edtId);
         edtAltura=(EditText)findViewById(R.id.edtAltura);
         edtDistancia=(EditText)findViewById(R.id.edtDistancia);
