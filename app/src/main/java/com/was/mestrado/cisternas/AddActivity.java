@@ -27,10 +27,11 @@ public class AddActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add);
-        //estou mudando para ver o git
+        //estou mudando para
         edtId=(EditText)findViewById(R.id.edtId);
         edtAltura=(EditText)findViewById(R.id.edtAltura);
         edtDistancia=(EditText)findViewById(R.id.edtDistancia);
+        //jhhjhhj
         edtAreaBase=(EditText)findViewById(R.id.edtAreaBase);
         txtResposta=(TextView)findViewById(R.id.txtResposta);
         btnSalvar=(Button)findViewById(R.id.btSalvar);
